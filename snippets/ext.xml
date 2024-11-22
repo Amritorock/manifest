@@ -24,7 +24,6 @@
  <!-- LosExt additions -->
   <project path="device/lineage/sepolicy" name="android_device_lineage_sepolicy" remote="U" />
   <project path="frameworks/av" name="android_frameworks_av" remote="U" />
-  <project path="frameworks/base" name="frameworks_base" remote="U" />
   <project path="frameworks/native" name="android_frameworks_native" remote="U" />
   <project path="lineage-sdk" name="android_lineage-sdk" remote="U" />
   <project path="packages/apps/GameSpace" name="android_packages_apps_GameSpace" remote="U" />
